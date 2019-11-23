@@ -20,7 +20,7 @@ It is actually an API to automate a headless Chromium instance. And as part of `
 
 ☣️ Please make sure to login into a wifi network, because the setup involves a huge download (More than 200 MB)!
 ```sh
-npm i install
+npm install
 ```
 
 ## Run

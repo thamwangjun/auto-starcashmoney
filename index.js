@@ -26,9 +26,9 @@ async function main() {
 
 }
 
-var twentyFiveMinutesInMillis = 25 * 60 * 1000 
+var twentyFiveMinutesInMillis = 15 * 60 * 1000 
 
-console.log('auto-starcashmoney will repeat login every 25 mins from now...')
+console.log('auto-starcashmoney will repeat login every 15 mins from now...')
 console.log('Press Ctrl+C to stop!')
 
 var firstLogin = main()

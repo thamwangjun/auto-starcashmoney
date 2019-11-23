@@ -1,0 +1,15 @@
+{
+  "name": "auto-starcashmoney",
+  "version": "0.0.1",
+  "description": "automatic wifi login for singapore starbucks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Tham Wang Jun",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}

@@ -17,12 +17,16 @@ It is actually an API to automate a headless Chromium instance. And as part of `
 * You need to install the latest LTS version for NodeJS
 
 ## Setup
+
 ☣️ Please make sure to login into a wifi network, because the setup involves a huge download (More than 200 MB)!
 ```sh
 npm i install
 ```
 
 ## Run
+
+**Please Login into Starbucks first, you actually need to have starbucks internet first efore this script will work**
+
 ```sh
 npm start
 ```
